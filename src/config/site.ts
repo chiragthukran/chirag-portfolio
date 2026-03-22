@@ -3,7 +3,7 @@ import type { NavItem } from "@/types/nav";
 
 export const SITE_INFO = {
   name: USER.displayName,
-  url: process.env.APP_URL || "https://chiragthukran.vercel.app",
+  url: process.env.APP_URL || "https://chiragthukran.dev",
   ogImage: USER.ogImage,
   description: USER.bio,
   keywords: USER.keywords,
@@ -35,7 +35,7 @@ export const SOURCE_CODE_GITHUB_URL =
   "https://github.com/chiragthukran/chirag-portfolio";
 
 export const UTM_PARAMS = {
-  utm_source: "https://chiragthukran.vercel.app",
+  utm_source: "https://chiragthukran.dev",
   utm_medium: "portfolio_website",
   utm_campaign: "referral",
 };

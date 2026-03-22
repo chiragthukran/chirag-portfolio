@@ -19,7 +19,7 @@ export const USER: User = {
 
   // base64-string-converter)
   email: "Y2hpcmFnLnlhZGF2LmNzZUBnbWFpbC5jb20=", // base64 encoded
-  website: "https://chiragthukran.vercel.app",
+  website: "https://chiragthukran.dev",
   jobTitle: "Fullstack Developer",
   jobs: [
     {
