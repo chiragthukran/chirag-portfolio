@@ -1,4 +1,4 @@
-# [Chirag Yadav](https://chirag-portfolio-xi.vercel.app/)
+# [Chirag Yadav](https://chiragthukran.vercel.app/)
 
 Here lies the source code for my personal portfolio.
 
